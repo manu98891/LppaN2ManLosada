@@ -89,3 +89,20 @@ hr{
     text-decoration: none;
     color: #008d8d;
 }
+
+.right-rail {
+    grid-column: span 4;
+}
+
+.articulo{
+    grid-column: span 8;
+    padding: 0 20px 0 0;
+    font-family: Libre Franklin,sans-serif;
+    color: #1f1f1f;
+}
+
+.notasApartes{
+    grid-column: span 4;
+    grid-column-start: span 4;
+    grid-column-end: auto;
+}
