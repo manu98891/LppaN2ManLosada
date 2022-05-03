@@ -1,0 +1,91 @@
+.headLink{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+hr{
+    height: 1px;
+    background-color:#000000;
+}
+
+.headLink:hover{
+    color: gray;
+}
+
+.cabe{
+    text-align: center;
+}
+
+.headLink2{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+/**/
+.mhh-date-container {
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.mhh-date-line {
+    border-bottom: 1px solid #666;
+    width: 100%;
+}
+
+.mhh-date-item {
+    color: #666;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-style: italic;
+    max-height: 20px;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.masInfo{
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.subTitulo{
+    color: #f96700;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom: 1px;
+}
+
+.tituloPricipal{
+    font-size: 40px;
+}
+
+.subTitulo2{
+    color: #706f6f;
+    display: block;
+    font-size: 40px;
+}
+
+.parafo{
+    font-size: 18px;
+    margin-bottom: 30px
+}
+
+.markAmarillo{
+    background: #fffb00;
+}
+
+.LINK{
+    text-decoration: none;
+    color: #008d8d;
+}
