@@ -99,18 +99,10 @@ hr{
     padding: 0 20px 0 0;
     font-family: Libre Franklin,sans-serif;
     color: #1f1f1f;
-    background-color: #fff;
-    border: 5px solid #f1f1f1;
-
 }
 
 .notasApartes{
     grid-column: span 4;
     grid-column-start: span 4;
     grid-column-end: auto;
-}
-
-.ima{
-    width: 100%;
-    height: auto;
 }
